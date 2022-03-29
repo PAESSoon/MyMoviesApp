@@ -1,0 +1,144 @@
+<resources>
+    <string name="app_name">MyMovies</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--    __________________  COMEDY  __________________    -->
+
+    <!--    **********************************  Love Actually  *************************************-->
+    <string name="love_actually_title">Love Actually</string>
+    <string name="love_actually_description">Follows the lives of eight very different couples in dealing with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London, England.</string>
+    <string name="love_actually_director">Richard Curtis</string>
+    <string name="love_actually_stars">Hugh Grant, Martine McCutcheon, Liam Neeson</string>
+    <string name="love_actually_trailer">LbDBV9TXot0</string>
+
+    <!--    **********************************  Friends  *************************************-->
+    <string name="friends_title">Friends</string>
+    <string name="friends_description">Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.</string>
+    <string name="friends_director">David Crane, Marta Kauffman</string>
+    <string name="friends_stars">Jennifer Aniston, Courteney Cox, Lisa Kudrow, Matt LeBlanc</string>
+    <string name="friends_trailer">mUPIZLUe83c</string>
+
+    <!--    **********************************  Detective Pikachu  *************************************-->
+    <string name="Pikachu_title">Detective Pikachu</string>
+    <string name="Pikachu_description">In a world where people collect Pokémon to do battle, a boy comes across an intelligent talking Pikachu who seeks to be a detective.</string>
+    <string name="Pikachu_director">Rob Letterman</string>
+    <string name="Pikachu_stars">Ryan Reynolds, Justice Smith, Kathryn Newton</string>
+    <string name="Pikachu_trailer">1roy4o4tqQM</string>
+
+    <!--    **********************************  Free Guy  *************************************-->
+    <string name="Free_Guy_title">Free Guy</string>
+    <string name="Free_Guy_description">A bank teller discovers that he\'s actually an NPC inside a brutal, open world video game.</string>
+    <string name="Free_Guy_director">Shawn Levy</string>
+    <string name="Free_Guy_stars">Ryan Reynolds, Taika Waititi, Hugh Jackman, Utkarsh Ambudkar, Lil Rel Howery, Jodie Comer, Joe Keery</string>
+    <string name="Free_Guy_trailer">X2m-08cOAbc</string>
+
+    <!--    **********************************  Bridget Jones Diary  *************************************-->
+    <string name="Bridget_Jones_title">Bridget Jones Diary</string>
+    <string name="Bridget_Jones_description">Bridget Jones is determined to improve herself while she looks for love in a year in which she keeps a personal diary.</string>
+    <string name="Bridget_Jones_director">Sharon Maguire</string>
+    <string name="Bridget_Jones_stars">Renée Zellweger, Colin Firth, Hugh Grant</string>
+    <string name="Bridget_Jones_trailer">EH9CWWqb-6E</string>
+
+    <!--    **********************************  Sing  *************************************-->
+    <string name="Sing_title">Sing</string>
+    <string name="Sing_description">In a city of humanoid animals, a hustling theater impresario\'s attempt to save his theater with a singing competition becomes grander than he anticipates even as its finalists find that their lives will never be the same.</string>
+    <string name="Sing_director">Garth Jennings, Christophe Lourdelet</string>
+    <string name="Sing_stars">Matthew McConaughey, Reese Witherspoon</string>
+    <string name="Sing_trailer">9qPgK_u4vX8</string>
+
+    <!--    **********************************  Just Go With It  *************************************-->
+    <string name="Just_Go_title">Just Go With It</string>
+    <string name="Just_Go_description">On a weekend trip to Hawaii, a plastic surgeon convinces his loyal assistant to pose as his soon-to-be-divorced wife in order to cover up a careless lie he told to his much-younger girlfriend.</string>
+    <string name="Just_Go_director">Dennis Dugan</string>
+    <string name="Just_Go_stars">Adam Sandler, Jennifer Aniston, Brooklyn Decker</string>
+    <string name="Just_Go_trailer">fpj7i2CPt8M</string>
+
+
+    <!--    __________________  ACTION  __________________    -->
+
+    <!--    **********************************  Avengers: Infinity War  *************************************-->
+    <string name="Infinity_War_title">Avengers: Infinity War</string>
+    <string name="Infinity_War_description">The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.</string>
+    <string name="Infinity_War_director">Anthony Russo, Joe Russo</string>
+    <string name="Infinity_War_stars">Robert Downey Jr., Josh Brolin, Bradley Cooper, Chris Evans, Scarlett Johansson</string>
+    <string name="Infinity_War_trailer">6ZfuNTqbHE8</string>
+
+    <!--    **********************************  No Time To Die   *************************************-->
+    <string name="No_Time_To_Die_title">No Time To Die</string>
+    <string name="No_Time_To_Die_description">The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.</string>
+    <string name="No_Time_To_Die_director">Anthony RussoJoe Russo</string>
+    <string name="No_Time_To_Die_stars">Robert Downey Jr., Josh Brolin, Bradley Cooper, Chris Evans, Scarlett Johansson</string>
+    <string name="No_Time_To_Die_trailer">vw2FOYjCz38</string>
+
+    <!--    **********************************  Sonic the Hedgehog   *************************************-->
+    <string name="Sonic_title">Sonic the Hedgehog </string>
+    <string name="Sonic_description">After discovering a small, blue, fast hedgehog, a small-town police officer must help him defeat an evil genius who wants to do experiments on him.</string>
+    <string name="Sonic_director">Jeff Fowler</string>
+    <string name="Sonic_stars">Ben Schwartz, James Marsden, Jim Carrey</string>
+    <string name="Sonic_trailer">szby7ZHLnkA</string>
+
+
+    <!--    __________________  DRAMA  __________________    -->
+
+    <!--    **********************************  Cruella  *************************************-->
+    <string name="Cruella_title">Cruella</string>
+    <string name="Cruella_description">A live-action prequel feature film following a young Cruella de Vil.</string>
+    <string name="Cruella_director">Craig Gillespie</string>
+    <string name="Cruella_stars">Emma Stone, Emma Thompson</string>
+    <string name="Cruella_trailer">gmRKv7n2If8</string>
+
+    <!--    **********************************  Parasite  *************************************-->
+    <string name="Parasite_title">Parasite</string>
+    <string name="Parasite_description">Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.</string>
+    <string name="Parasite_director">Bong Joon Ho</string>
+    <string name="Parasite_stars">Kang-ho, SongSun-kyun, LeeYeo-jeong Cho</string>
+    <string name="Parasite_trailer">isOGD_7hNIY</string>
+
+    <!--    **********************************  A Star Is Born  *************************************-->
+    <string name="A_Star_Is_Born_title">A Star Is Born</string>
+    <string name="A_Star_Is_Born_description">A musician helps a young singer find fame as age and alcoholism send his own career into a downward spiral.</string>
+    <string name="A_Star_Is_Born_director">Bradley Cooper</string>
+    <string name="A_Star_Is_Born_stars">Lady Gaga, Bradley Cooper</string>
+    <string name="A_Star_Is_Born_trailer">nSbzyEJ8X9E</string>
+
+
+    <string-array name="movies">
+        <item>Love Actually</item>
+        <item>Friends</item>
+        <item>Detective Pikachu</item>
+        <item>Avengers: Infinity War</item>
+        <item>Cruella</item>
+        <item>Free Guy</item>
+        <item>Sing</item>
+        <item>No Time To Die</item>
+        <item>Sonic the Hedgehog</item>
+        <item>Bridget Jones Diary</item>
+        <item>Just Go With It</item>
+        <item>Parasite</item>
+        <item>A Star Is Born</item>
+    </string-array>
+
+    <string-array name="comedy">
+        <item>Love Actually</item>
+        <item>Friends</item>
+        <item>Sing</item>
+        <item>Bridget Jones Diary</item>
+        <item>Just Go With It</item>
+    </string-array>
+
+    <string-array name="action">
+        <item>Detective Pikachu</item>
+        <item>Avengers: Infinity War</item>
+        <item>Free Guy</item>
+        <item>No Time To Die</item>
+        <item>Sonic the Hedgehog</item>
+    </string-array>
+
+    <string-array name="drama">
+        <item>Cruella</item>
+        <item>Parasite</item>
+        <item>A Star Is Born</item>
+    </string-array>
+
+</resources>
